@@ -1,0 +1,2 @@
+# CourseWorkConflictResolution
+CourseWorkConflictResolution
