@@ -1,4 +1,4 @@
 const conflict = {
   name: "Vatthana",
-  please: " mess this one up   SAMUEL HERE WHOOOOO!",
+  please: " mess this one up   SLOOI HERE WHOOOOO!",
 };
